@@ -1,0 +1,1 @@
+6518dce1-0235-4115-8443-d973cac9b460 autoenable=true bucket=cneuromod.mario3.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mario3.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353012s
